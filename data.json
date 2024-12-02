@@ -1,13 +1,13 @@
 {
     "user": {
-        "name": "김하하",
+        "name": "장세인",
         "bank": "키움증권",
-        "accountNumber": "1234-5678",
-        "stockPricePerShare": 36000,
-        "sharesOwned": 500
+        "accountNumber": "5436-3862",
+        "stockPricePerShare": 20000,
+        "sharesOwned": 0
     },
     "contact": {
-        "phone": "010-1234-5678"
+        "phone": "010-4307-9207"
     },
     "news": [
         {
